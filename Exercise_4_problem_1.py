@@ -18,7 +18,8 @@
 # - Answering some questions about functions at the end of this problem
 # - Adding comments in your code and a docstring that explains how to use your `fahr_to_celsius` function (i.e., you should write the purpose of the function, parameters, and returned values)
 
-# YOUR CODE HERE
+def fahr_to_celsius(temp):
+    return  (temp + 32) /(9/5)
 
 # ### Problem 1 tests
 # 
@@ -26,7 +27,7 @@
 # 1. What is 48° Fahrenheit in Celsius? 
 # 2. What about 71° Fahrenheit in Celsius?
 
-# ### Check your code
+
 # 
 # - Make sure you used the given variable names
 # - Check that you have added necessary comments to your code
