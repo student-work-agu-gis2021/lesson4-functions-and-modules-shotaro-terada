@@ -45,8 +45,8 @@ print(fahr_to_celsius(71))
 # Write your answers below:
 
 # YOUR ANSWER HERE. Write your answers as comments
-#
-#
+#yes, but English is difficult.
+#Can be converted overseas.
 #
 #
 
