@@ -27,8 +27,8 @@ def fahr_to_celsius(temp):
 # 1. What is 48° Fahrenheit in Celsius? 
 # 2. What about 71° Fahrenheit in Celsius?
 
-fahr_to_celsius(48);
-fahr_to_celsius(71);
+print(fahr_to_celsius(48))
+print(fahr_to_celsius(71))
 
 # 
 # - Make sure you used the given variable names
